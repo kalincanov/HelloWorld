@@ -2,4 +2,6 @@
 Save the World  
 
 
-#Second version of the app will be released soon
+#Thi is the virst version of the app
+
+Now second is here
